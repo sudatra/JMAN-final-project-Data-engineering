@@ -1,0 +1,13 @@
+version: 2
+
+sources:
+  - name: learning_platform
+    database: JMAN_FINAL_PROJECT
+    schema: DBO
+    tables:
+      - name: USER
+      - name: SKILL
+      - name: EVENT
+      - name: INTEREST
+      - name: REGISTRATION
+      - name: USER_SKILL
